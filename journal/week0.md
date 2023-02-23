@@ -6,5 +6,5 @@
 
 ## create a Budget Alarm
 
-![AWS CLI]()
+![AWS CLI](assets/week0-Budget.png)
 
