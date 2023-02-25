@@ -12,3 +12,7 @@ cloudwatch Alarm
 
 ![cloudwatch alarm](assets/weeko-cloudwatch-alarm.png)
 
+
+## logical diagram
+
+![]()
