@@ -15,4 +15,4 @@ cloudwatch Alarm
 
 ## logical diagram
 
-![]()
+![](assets/week0-logical-diagram.png)
