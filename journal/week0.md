@@ -10,5 +10,5 @@
 
 cloudwatch Alarm
 
-![cloudwatch alrm]()
+![cloudwatch alarm](assets/weeko-cloudwatch-alarm.png)
 
