@@ -1,0 +1,3 @@
+#!/bash/bash
+
+npm start
