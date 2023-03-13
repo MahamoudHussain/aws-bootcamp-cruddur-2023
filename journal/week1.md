@@ -7,3 +7,7 @@
 ## Backend run.sh file
 
 ![Backend run.sh](assets/week1-Backend-script.png)
+
+##Implement a healthcheck in the Docker compose file.
+
+![]()
