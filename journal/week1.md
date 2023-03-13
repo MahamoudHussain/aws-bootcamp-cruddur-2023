@@ -10,4 +10,4 @@
 
 ##Implement a healthcheck in the Docker compose file.
 
-![Docker-compose healthcheck](assets/week1-Dockerfile-CMD.png)
+![Docker-compose healthcheck](assets/week1-healthcheck.png)
